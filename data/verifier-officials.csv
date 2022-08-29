@@ -1,256 +1,255 @@
-Search Results: Texas / 2022 
 FIPS code,State,Jurisdiction,Precincts,Total Registration,Marking Method
-"4800100000","Texas","Anderson County","23","29274","Ballot Marking Devices for all voters",
-"4800300000","Texas","Andrews County","5","10272","Ballot Marking Devices for all voters",
-"4800500000","Texas","Angelina County","43","53166","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4800700000","Texas","Aransas County","6","18306","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4800900000","Texas","Archer County","12","6538","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4801100000","Texas","Armstrong County","8","1498","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4801300000","Texas","Atascosa County","25","29409","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4801500000","Texas","Austin County","18","20293","Ballot Marking Devices for all voters",
-"4801700000","Texas","Bailey County","5","3539","Hand marked paper ballots and BMDs for accessibility",
-"4801900000","Texas","Bandera County","11","17098","DREs without VVPAT for all voters",
-"4802100000","Texas","Bastrop County","23","52096","Ballot Marking Devices for all voters",
-"4802300000","Texas","Baylor County","5","2408","Ballot Marking Devices for all voters",
-"4802500000","Texas","Bee County","18","16033","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4802700000","Texas","Bell County","49","215974","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4802900000","Texas","Bexar County","767","1189373","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4803100000","Texas","Blanco County","7","9344","Hand marked paper ballots and BMDs for accessibility",
-"4803300000","Texas","Borden County","8","499","Hand marked paper ballots and BMDs for accessibility",
-"4803500000","Texas","Bosque County","12","12724","Hand marked paper ballots and BMDs for accessibility",
-"4803700000","Texas","Bowie County","43","61407","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4803900000","Texas","Brazoria County","67","224256","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4804100000","Texas","Brazos County","99","122137","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4804300000","Texas","Brewster County","9","7524","Hand marked paper ballots and BMDs for accessibility",
-"4804500000","Texas","Briscoe County","6","1025","Ballot Marking Devices for all voters",
-"4804700000","Texas","Brooks County","6","5521","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4804900000","Texas","Brown County","19","23954","Ballot Marking Devices for all voters",
-"4805100000","Texas","Burleson County","14","12440","Ballot Marking Devices for all voters",
-"4805300000","Texas","Burnet County","21","33697","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4805500000","Texas","Caldwell County","31","25945","Ballot Marking Devices for all voters",
-"4805700000","Texas","Calhoun County","25","13080","Hand marked paper ballots and BMDs for accessibility",
-"4805900000","Texas","Callahan County","8","9773","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4806100000","Texas","Cameron County","104","218910","Hand marked paper ballots and BMDs for accessibility",
-"4806300000","Texas","Camp County","5","7904","Hand marked paper ballots and BMDs for accessibility",
-"4806500000","Texas","Carson County","9","4345","Ballot Marking Devices for all voters",
-"4806700000","Texas","Cass County","19","20889","Hand marked paper ballots and BMDs for accessibility",
-"4806900000","Texas","Castro County","9","3853","DREs without VVPAT for all voters",
-"4807100000","Texas","Chambers County","15","30709","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4807300000","Texas","Cherokee County","25","29166","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4807500000","Texas","Childress County","5","3658","Ballot Marking Devices for all voters",
-"4807700000","Texas","Clay County","17","7959","Ballot Marking Devices for all voters",
-"4807900000","Texas","Cochran County","6","1771","Hand marked paper ballots and BMDs for accessibility",
-"4808100000","Texas","Coke County","5","2414","DREs without VVPAT for all voters",
-"4808300000","Texas","Coleman County","5","5960","Ballot Marking Devices for all voters",
-"4808500000","Texas","Collin County","239","648670","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4808700000","Texas","Collingsworth County","8","1942","Hand marked paper ballots and BMDs for accessibility",
-"4808900000","Texas","Colorado County","4","14378","Hand marked paper ballots and BMDs for accessibility",
-"4809100000","Texas","Comal County","30","115876","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4809300000","Texas","Comanche County","14","9562","Ballot Marking Devices for all voters",
-"4809500000","Texas","Concho County","9","1757","DREs without VVPAT for all voters",
-"4809700000","Texas","Cooke County","30","27268","Ballot Marking Devices for all voters",
-"4809900000","Texas","Coryell County","16","41450","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4810100000","Texas","Cottle County","5","1041","Hand marked paper ballots and BMDs for accessibility",
-"4810300000","Texas","Crane County","4","2663","Ballot Marking Devices for all voters",
-"4810500000","Texas","Crockett County","5","2473","Hand marked paper ballots and BMDs for accessibility",
-"4810700000","Texas","Crosby County","5","3629","Ballot Marking Devices for all voters",
-"4810900000","Texas","Culberson County","6","1709","Hand marked paper ballots and BMDs for accessibility",
-"4811100000","Texas","Dallam County","10","3046","Ballot Marking Devices for all voters",
-"4811300000","Texas","Dallas County","1170","1398469","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4811500000","Texas","Dawson County","10","7104","Ballot Marking Devices for all voters",
-"4812300000","Texas","DeWitt County","10","12094","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4811700000","Texas","Deaf Smith County","5","8900","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4811900000","Texas","Delta County","8","3949","Ballot Marking Devices for all voters",
-"4812100000","Texas","Denton County","186","565089","Hand marked paper ballots and BMDs for accessibility",
-"4812500000","Texas","Dickens County","7","1328","Ballot Marking Devices for all voters",
-"4812700000","Texas","Dimmit County","8","7341","Hand marked paper ballots and BMDs for accessibility",
-"4812900000","Texas","Donley County","7","2322","Hand marked paper ballots and BMDs for accessibility",
-"4813100000","Texas","Duval County","10","8346","Hand marked paper ballots and BMDs for accessibility",
-"4813300000","Texas","Eastland County","13","12230","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4813500000","Texas","Ector County","41","80872","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4813700000","Texas","Edwards County","5","1499","Hand marked paper ballots and BMDs for accessibility",
-"4814100000","Texas","El Paso County","50","488470","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4813900000","Texas","Ellis County","209","120188","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4814300000","Texas","Erath County","22","23935","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4814500000","Texas","Falls County","13","10361","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4814700000","Texas","Fannin County","17","22199","Ballot Marking Devices for all voters",
-"4814900000","Texas","Fayette County","27","17398","Hand marked paper ballots and BMDs for accessibility",
-"4815100000","Texas","Fisher County","5","2646","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4815300000","Texas","Floyd County","7","3850","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4815500000","Texas","Foard County","5","884","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4815700000","Texas","Fort Bend County","160","482368","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4815900000","Texas","Franklin County","9","7061","Hand marked paper ballots and BMDs for accessibility",
-"4816100000","Texas","Freestone County","16","12481","DREs without VVPAT for all voters",
-"4816300000","Texas","Frio County","10","8984","Hand marked paper ballots and BMDs for accessibility",
-"4816500000","Texas","Gaines County","9","9701","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4816700000","Texas","Galveston County","93","228482","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4816900000","Texas","Garza County","7","2681","Hand marked paper ballots and BMDs for accessibility",
-"4817100000","Texas","Gillespie County","14","20404","Hand marked paper ballots and BMDs for accessibility",
-"4817300000","Texas","Glasscock County","5","800","Hand marked paper ballots and BMDs for accessibility",
-"4817500000","Texas","Goliad County","10","5766","Hand marked paper ballots and BMDs for accessibility",
-"4817700000","Texas","Gonzales County","16","12629","Ballot Marking Devices for all voters",
-"4817900000","Texas","Gray County","8","12406","DREs without VVPAT for all voters",
-"4818100000","Texas","Grayson County","37","86740","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4818300000","Texas","Gregg County","22","72867","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4818500000","Texas","Grimes County","15","17877","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4818700000","Texas","Guadalupe County","72","111142","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4818900000","Texas","Hale County","31","18997","DREs without VVPAT for all voters",
-"4819100000","Texas","Hall County","5","1926","Ballot Marking Devices for all voters",
-"4819300000","Texas","Hamilton County","11","5832","Hand marked paper ballots and BMDs for accessibility",
-"4819500000","Texas","Hansford County","8","3009","Hand marked paper ballots and BMDs for accessibility",
-"4819700000","Texas","Hardeman County","4","2486","Hand marked paper ballots and BMDs for accessibility",
-"4819900000","Texas","Hardin County","20","39952","Hand marked paper ballots and BMDs for accessibility",
-"4820100000","Texas","Harris County","1013","2480522","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4820300000","Texas","Harrison County","27","45933","Ballot Marking Devices for all voters",
-"4820500000","Texas","Hartley County","7","2909","Ballot Marking Devices for all voters",
-"4820700000","Texas","Haskell County","5","3377","Hand marked paper ballots and BMDs for accessibility",
-"4820900000","Texas","Hays County","69","152840","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4821100000","Texas","Hemphill County","9","2355","Hand marked paper ballots and BMDs for accessibility",
-"4821300000","Texas","Henderson County","28","54663","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4821500000","Texas","Hidalgo County","256","391309","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4821700000","Texas","Hill County","22","23625","Hand marked paper ballots and BMDs for accessibility",
-"4821900000","Texas","Hockley County","14","13781","Hand marked paper ballots and BMDs for accessibility",
-"4822100000","Texas","Hood County","16","44831","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4822300000","Texas","Hopkins County","22","23954","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4822500000","Texas","Houston County","22","13444","Hand marked paper ballots and BMDs for accessibility",
-"4822700000","Texas","Howard County","27","17526","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4822900000","Texas","Hudspeth County","5","2085","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4823100000","Texas","Hunt County","34","59367","Ballot Marking Devices for all voters",
-"4823300000","Texas","Hutchinson County","9","13533","Ballot Marking Devices for all voters",
-"4823500000","Texas","Irion County","5","1298","DREs without VVPAT for all voters",
-"4823700000","Texas","Jack County","7","5254","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4823900000","Texas","Jackson County","10","9482","Ballot Marking Devices for all voters",
-"4824100000","Texas","Jasper County","21","23374","Hand marked paper ballots and BMDs for accessibility",
-"4824300000","Texas","Jeff Davis County","6","1670","Hand marked paper ballots and BMDs for accessibility",
-"4824500000","Texas","Jefferson County","140","149372","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4824700000","Texas","Jim Hogg County","6","3800","Hand marked paper ballots and BMDs for accessibility",
-"4824900000","Texas","Jim Wells County","22","26636","DREs without VVPAT for all voters",
-"4825100000","Texas","Johnson County","36","105574","Hand marked paper ballots and BMDs for accessibility",
-"4825300000","Texas","Jones County","12","9635","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4825500000","Texas","Karnes County","15","8359","DREs without VVPAT for all voters",
-"4825700000","Texas","Kaufman County","31","81901","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4825900000","Texas","Kendall County","11","33836","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4826100000","Texas","Kenedy County","6","296","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4826300000","Texas","Kent County","7","592","Hand marked paper ballots and BMDs for accessibility",
-"4826500000","Texas","Kerr County","21","37726","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4826700000","Texas","Kimble County","8","3113","Hand marked paper ballots and BMDs for accessibility",
-"4826900000","Texas","King County","5","183","Hand marked paper ballots and BMDs for accessibility",
-"4827100000","Texas","Kinney County","4","2270","Hand marked paper ballots and BMDs for accessibility",
-"4827300000","Texas","Kleberg County","18","18749","Hand marked paper ballots and BMDs for accessibility",
-"4827500000","Texas","Knox County","7","2391","Hand marked paper ballots and BMDs for accessibility",
-"4828300000","Texas","La Salle County","27","4426","Hand marked paper ballots and BMDs for accessibility",
-"4827700000","Texas","Lamar County","12","32390","Hand marked paper ballots and BMDs for accessibility",
-"4827900000","Texas","Lamb County","10","8085","Ballot Marking Devices for all voters",
-"4828100000","Texas","Lampasas County","5","15424","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4828500000","Texas","Lavaca County","20","13661","Hand marked paper ballots and BMDs for accessibility",
-"4828700000","Texas","Lee County","16","11145","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4828900000","Texas","Leon County","18","11727","DREs without VVPAT for all voters",
-"4829100000","Texas","Liberty County","30","46155","Vote Center Jurisdiction, Hand marked paper ballots and BMDs",
-"4829300000","Texas","Limestone County","21","13963","DREs without VVPAT for all voters",
-"4829500000","Texas","Lipscomb County","7","1977","Ballot Marking Devices for all voters",
-"4829700000","Texas","Live Oak County","15","7572","Hand marked paper ballots and BMDs for accessibility",
-"4829900000","Texas","Llano County","10","16688","Ballot Marking Devices for all voters",
-"4830100000","Texas","Loving County","5","111","Hand marked paper ballots and BMDs for accessibility",
-"4830300000","Texas","Lubbock County","98","183320","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4830500000","Texas","Lynn County","15","4028","Hand marked paper ballots and BMDs for accessibility",
-"4831300000","Texas","Madison County","5","7822","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4831500000","Texas","Marion County","10","7596","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4831700000","Texas","Martin County","6","3467","DREs without VVPAT for all voters",
-"4831900000","Texas","Mason County","405","3168","Hand marked paper ballots and BMDs for accessibility",
-"4832100000","Texas","Matagorda County","19","22026","DREs without VVPAT for all voters",
-"4832300000","Texas","Maverick County","14","33050","Hand marked paper ballots and BMDs for accessibility",
-"4830700000","Texas","McCulloch County","4","5361","Hand marked paper ballots and BMDs for accessibility",
-"4830900000","Texas","McLennan County","92","149461","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4831100000","Texas","McMullen County","5","706","Hand marked paper ballots and BMDs for accessibility",
-"4832500000","Texas","Medina County","8","33763","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4832700000","Texas","Menard County","7","1469","DREs without VVPAT for all voters",
-"4832900000","Texas","Midland County","45","90392","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4833100000","Texas","Milam County","12","15838","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4833300000","Texas","Mills County","8","3429","Hand marked paper ballots and BMDs for accessibility",
-"4833500000","Texas","Mitchell County","7","4524","Ballot Marking Devices for all voters",
-"4833700000","Texas","Montague County","16","14001","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4833900000","Texas","Montgomery County","101","370060","Ballot Marking Devices for all voters",
-"4834100000","Texas","Moore County","8","9995","Ballot Marking Devices for all voters",
-"4834300000","Texas","Morris County","9","8583","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4834500000","Texas","Motley County","7","859","Hand marked paper ballots and BMDs for accessibility",
-"4834700000","Texas","Nacogdoches County","26","38786","Hand marked paper ballots and BMDs for accessibility",
-"4834900000","Texas","Navarro County","30","29959","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4835100000","Texas","Newton County","23","9400","Hand marked paper ballots and BMDs for accessibility",
-"4835300000","Texas","Nolan County","10","8871","Hand marked paper ballots and BMDs for accessibility",
-"4835500000","Texas","Nueces County","127","211652","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4835700000","Texas","Ochiltree County","5","5192","Hand marked paper ballots and BMDs for accessibility",
-"4835900000","Texas","Oldham County","8","1425","Hand marked paper ballots and BMDs for accessibility",
-"4836100000","Texas","Orange County","35","54442","Ballot Marking Devices for all voters",
-"4836300000","Texas","Palo Pinto County","28","18946","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4836500000","Texas","Panola County","20","16808","Hand marked paper ballots and BMDs for accessibility",
-"4836700000","Texas","Parker County","44","103999","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4836900000","Texas","Parmer County","10","4537","Hand marked paper ballots and BMDs for accessibility",
-"4837100000","Texas","Pecos County","10","8323","Ballot Marking Devices for all voters",
-"4837300000","Texas","Polk County","22","40520","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4837500000","Texas","Potter County","25","57736","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4837700000","Texas","Presidio County","8","4789","Hand marked paper ballots and BMDs for accessibility",
-"4837900000","Texas","Rains County","9","8320","DREs without VVPAT for all voters",
-"4838100000","Texas","Randall County","23","93313","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4838300000","Texas","Reagan County","5","1879","Ballot Marking Devices for all voters",
-"4838500000","Texas","Real County","6","2702","Hand marked paper ballots and BMDs for accessibility",
-"4838700000","Texas","Red River County","20","8489","Hand marked paper ballots and BMDs for accessibility",
-"4838900000","Texas","Reeves County","12","7558","Hand marked paper ballots and BMDs for accessibility",
-"4839100000","Texas","Refugio County","11","5007","DREs without VVPAT for all voters",
-"4839300000","Texas","Roberts County","5","680","Hand marked paper ballots and BMDs for accessibility",
-"4839500000","Texas","Robertson County","16","11844","Hand marked paper ballots and BMDs for accessibility",
-"4839700000","Texas","Rockwall County","18","71102","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4839900000","Texas","Runnels County","11","7025","Ballot Marking Devices for all voters",
-"4840100000","Texas","Rusk County","23","32388","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4840300000","Texas","Sabine County","9","8050","Hand marked paper ballots and BMDs for accessibility",
-"4840500000","Texas","San Augustine County","12","6108","Hand marked paper ballots and BMDs for accessibility",
-"4840700000","Texas","San Jacinto County","12","18969","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4840900000","Texas","San Patricio County","26","43248","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4841100000","Texas","San Saba County","4","3776","Hand marked paper ballots and BMDs for accessibility",
-"4841300000","Texas","Schleicher County","5","1709","Hand marked paper ballots and BMDs for accessibility",
-"4841500000","Texas","Scurry County","12","9489","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4841700000","Texas","Shackelford County","8","2320","DREs without VVPAT for all voters",
-"4841900000","Texas","Shelby County","15","15570","Hand marked paper ballots and BMDs for accessibility",
-"4842100000","Texas","Sherman County","5","1520","Hand marked paper ballots and BMDs for accessibility",
-"4842300000","Texas","Smith County","74","146149","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4842500000","Texas","Somervell County","4","6712","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4842700000","Texas","Starr County","10","34050","Hand marked paper ballots and BMDs for accessibility",
-"4842900000","Texas","Stephens County","9","5672","Hand marked paper ballots and BMDs for accessibility",
-"4843100000","Texas","Sterling County","4","939","DREs without VVPAT for all voters",
-"4843300000","Texas","Stonewall County","4","953","Ballot Marking Devices for all voters",
-"4843500000","Texas","Sutton County","5","2449","Hand marked paper ballots and BMDs for accessibility",
-"4843700000","Texas","Swisher County","9","3941","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4843900000","Texas","Tarrant County","730","1212524","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4844100000","Texas","Taylor County","35","83696","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4844300000","Texas","Terrell County","5","673","Hand marked paper ballots and BMDs for accessibility",
-"4844500000","Texas","Terry County","8","6589","Ballot Marking Devices for all voters",
-"4844700000","Texas","Throckmorton County","5","1216","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4844900000","Texas","Titus County","19","17666","Hand marked paper ballots and BMDs for accessibility",
-"4845100000","Texas","Tom Green County","35","70086","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4845300000","Texas","Travis County","248","854577","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4845500000","Texas","Trinity County","20","11541","Hand marked paper ballots and BMDs for accessibility",
-"4845700000","Texas","Tyler County","18","14556","Hand marked paper ballots and BMDs for accessibility",
-"4845900000","Texas","Upshur County","22","28619","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4846100000","Texas","Upton County","5","2207","Ballot Marking Devices for all voters",
-"4846300000","Texas","Uvalde County","14","17420","Hand marked paper ballots and BMDs for accessibility",
-"4846500000","Texas","Val Verde County","17","28927","Hand marked paper ballots and BMDs for accessibility",
-"4846700000","Texas","Van Zandt County","19","38965","Hand marked paper ballots and BMDs for accessibility",
-"4846900000","Texas","Victoria County","35","56612","Vote Center Jurisdiction, DREs without VVPAT for all voters",
-"4847100000","Texas","Walker County","17","35038","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4847300000","Texas","Waller County","21","35116","DREs without VVPAT for all voters",
-"4847500000","Texas","Ward County","9","6880","Hand marked paper ballots and BMDs for accessibility",
-"4847700000","Texas","Washington County","22","23947","Hand marked paper ballots and BMDs for accessibility",
-"4847900000","Texas","Webb County","70","137840","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4848100000","Texas","Wharton County","12","25697","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4848300000","Texas","Wheeler County","11","3514","Ballot Marking Devices for all voters",
-"4848500000","Texas","Wichita County","61","83575","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4848700000","Texas","Wilbarger County","5","8196","DREs without VVPAT for all voters",
-"4848900000","Texas","Willacy County","17","12804","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4849100000","Texas","Williamson County","58","376672","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4849300000","Texas","Wilson County","17","35036","Hand marked paper ballots and BMDs for accessibility",
-"4849500000","Texas","Winkler County","6","4013","Hand marked paper ballots and BMDs for accessibility",
-"4849700000","Texas","Wise County","26","45643","DREs without VVPAT for all voters",
-"4849900000","Texas","Wood County","14","32382","DREs without VVPAT for all voters",
-"4850100000","Texas","Yoakum County","7","4407","Ballot Marking Devices for all voters",
-"4850300000","Texas","Young County","10","11769","Vote Center Jurisdiction, Ballot Marking Devices for all voters",
-"4850500000","Texas","Zapata County","8","8257","Hand marked paper ballots and DREs without VVPAT for accessibility",
-"4850700000","Texas","Zavala County","6","8066","Hand marked paper ballots and BMDs for accessibility",
+4800100000,Texas,Anderson County,23,29274,Ballot Marking Devices for all voters
+4800300000,Texas,Andrews County,5,10272,Ballot Marking Devices for all voters
+4800500000,Texas,Angelina County,43,53166,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4800700000,Texas,Aransas County,6,18306,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4800900000,Texas,Archer County,12,6538,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4801100000,Texas,Armstrong County,8,1498,Hand marked paper ballots and DREs without VVPAT for accessibility
+4801300000,Texas,Atascosa County,25,29409,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4801500000,Texas,Austin County,18,20293,Ballot Marking Devices for all voters
+4801700000,Texas,Bailey County,5,3539,Hand marked paper ballots and BMDs for accessibility
+4801900000,Texas,Bandera County,11,17098,DREs without VVPAT for all voters
+4802100000,Texas,Bastrop County,23,52096,Ballot Marking Devices for all voters
+4802300000,Texas,Baylor County,5,2408,Ballot Marking Devices for all voters
+4802500000,Texas,Bee County,18,16033,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4802700000,Texas,Bell County,49,215974,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4802900000,Texas,Bexar County,767,1189373,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4803100000,Texas,Blanco County,7,9344,Hand marked paper ballots and BMDs for accessibility
+4803300000,Texas,Borden County,8,499,Hand marked paper ballots and BMDs for accessibility
+4803500000,Texas,Bosque County,12,12724,Hand marked paper ballots and BMDs for accessibility
+4803700000,Texas,Bowie County,43,61407,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4803900000,Texas,Brazoria County,67,224256,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4804100000,Texas,Brazos County,99,122137,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4804300000,Texas,Brewster County,9,7524,Hand marked paper ballots and BMDs for accessibility
+4804500000,Texas,Briscoe County,6,1025,Ballot Marking Devices for all voters
+4804700000,Texas,Brooks County,6,5521,Hand marked paper ballots and DREs without VVPAT for accessibility
+4804900000,Texas,Brown County,19,23954,Ballot Marking Devices for all voters
+4805100000,Texas,Burleson County,14,12440,Ballot Marking Devices for all voters
+4805300000,Texas,Burnet County,21,33697,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4805500000,Texas,Caldwell County,31,25945,Ballot Marking Devices for all voters
+4805700000,Texas,Calhoun County,25,13080,Hand marked paper ballots and BMDs for accessibility
+4805900000,Texas,Callahan County,8,9773,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4806100000,Texas,Cameron County,104,218910,Hand marked paper ballots and BMDs for accessibility
+4806300000,Texas,Camp County,5,7904,Hand marked paper ballots and BMDs for accessibility
+4806500000,Texas,Carson County,9,4345,Ballot Marking Devices for all voters
+4806700000,Texas,Cass County,19,20889,Hand marked paper ballots and BMDs for accessibility
+4806900000,Texas,Castro County,9,3853,DREs without VVPAT for all voters
+4807100000,Texas,Chambers County,15,30709,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4807300000,Texas,Cherokee County,25,29166,Hand marked paper ballots and DREs without VVPAT for accessibility
+4807500000,Texas,Childress County,5,3658,Ballot Marking Devices for all voters
+4807700000,Texas,Clay County,17,7959,Ballot Marking Devices for all voters
+4807900000,Texas,Cochran County,6,1771,Hand marked paper ballots and BMDs for accessibility
+4808100000,Texas,Coke County,5,2414,DREs without VVPAT for all voters
+4808300000,Texas,Coleman County,5,5960,Ballot Marking Devices for all voters
+4808500000,Texas,Collin County,239,648670,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4808700000,Texas,Collingsworth County,8,1942,Hand marked paper ballots and BMDs for accessibility
+4808900000,Texas,Colorado County,4,14378,Hand marked paper ballots and BMDs for accessibility
+4809100000,Texas,Comal County,30,115876,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4809300000,Texas,Comanche County,14,9562,Ballot Marking Devices for all voters
+4809500000,Texas,Concho County,9,1757,DREs without VVPAT for all voters
+4809700000,Texas,Cooke County,30,27268,Ballot Marking Devices for all voters
+4809900000,Texas,Coryell County,16,41450,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4810100000,Texas,Cottle County,5,1041,Hand marked paper ballots and BMDs for accessibility
+4810300000,Texas,Crane County,4,2663,Ballot Marking Devices for all voters
+4810500000,Texas,Crockett County,5,2473,Hand marked paper ballots and BMDs for accessibility
+4810700000,Texas,Crosby County,5,3629,Ballot Marking Devices for all voters
+4810900000,Texas,Culberson County,6,1709,Hand marked paper ballots and BMDs for accessibility
+4811100000,Texas,Dallam County,10,3046,Ballot Marking Devices for all voters
+4811300000,Texas,Dallas County,1170,1398469,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4811500000,Texas,Dawson County,10,7104,Ballot Marking Devices for all voters
+4812300000,Texas,DeWitt County,10,12094,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4811700000,Texas,Deaf Smith County,5,8900,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4811900000,Texas,Delta County,8,3949,Ballot Marking Devices for all voters
+4812100000,Texas,Denton County,186,565089,Hand marked paper ballots and BMDs for accessibility
+4812500000,Texas,Dickens County,7,1328,Ballot Marking Devices for all voters
+4812700000,Texas,Dimmit County,8,7341,Hand marked paper ballots and BMDs for accessibility
+4812900000,Texas,Donley County,7,2322,Hand marked paper ballots and BMDs for accessibility
+4813100000,Texas,Duval County,10,8346,Hand marked paper ballots and BMDs for accessibility
+4813300000,Texas,Eastland County,13,12230,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4813500000,Texas,Ector County,41,80872,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4813700000,Texas,Edwards County,5,1499,Hand marked paper ballots and BMDs for accessibility
+4814100000,Texas,El Paso County,50,488470,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4813900000,Texas,Ellis County,209,120188,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4814300000,Texas,Erath County,22,23935,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4814500000,Texas,Falls County,13,10361,Hand marked paper ballots and DREs without VVPAT for accessibility
+4814700000,Texas,Fannin County,17,22199,Ballot Marking Devices for all voters
+4814900000,Texas,Fayette County,27,17398,Hand marked paper ballots and BMDs for accessibility
+4815100000,Texas,Fisher County,5,2646,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4815300000,Texas,Floyd County,7,3850,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4815500000,Texas,Foard County,5,884,Hand marked paper ballots and DREs without VVPAT for accessibility
+4815700000,Texas,Fort Bend County,160,482368,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4815900000,Texas,Franklin County,9,7061,Hand marked paper ballots and BMDs for accessibility
+4816100000,Texas,Freestone County,16,12481,DREs without VVPAT for all voters
+4816300000,Texas,Frio County,10,8984,Hand marked paper ballots and BMDs for accessibility
+4816500000,Texas,Gaines County,9,9701,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4816700000,Texas,Galveston County,93,228482,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4816900000,Texas,Garza County,7,2681,Hand marked paper ballots and BMDs for accessibility
+4817100000,Texas,Gillespie County,14,20404,Hand marked paper ballots and BMDs for accessibility
+4817300000,Texas,Glasscock County,5,800,Hand marked paper ballots and BMDs for accessibility
+4817500000,Texas,Goliad County,10,5766,Hand marked paper ballots and BMDs for accessibility
+4817700000,Texas,Gonzales County,16,12629,Ballot Marking Devices for all voters
+4817900000,Texas,Gray County,8,12406,DREs without VVPAT for all voters
+4818100000,Texas,Grayson County,37,86740,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4818300000,Texas,Gregg County,22,72867,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4818500000,Texas,Grimes County,15,17877,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4818700000,Texas,Guadalupe County,72,111142,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4818900000,Texas,Hale County,31,18997,DREs without VVPAT for all voters
+4819100000,Texas,Hall County,5,1926,Ballot Marking Devices for all voters
+4819300000,Texas,Hamilton County,11,5832,Hand marked paper ballots and BMDs for accessibility
+4819500000,Texas,Hansford County,8,3009,Hand marked paper ballots and BMDs for accessibility
+4819700000,Texas,Hardeman County,4,2486,Hand marked paper ballots and BMDs for accessibility
+4819900000,Texas,Hardin County,20,39952,Hand marked paper ballots and BMDs for accessibility
+4820100000,Texas,Harris County,1013,2480522,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4820300000,Texas,Harrison County,27,45933,Ballot Marking Devices for all voters
+4820500000,Texas,Hartley County,7,2909,Ballot Marking Devices for all voters
+4820700000,Texas,Haskell County,5,3377,Hand marked paper ballots and BMDs for accessibility
+4820900000,Texas,Hays County,69,152840,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4821100000,Texas,Hemphill County,9,2355,Hand marked paper ballots and BMDs for accessibility
+4821300000,Texas,Henderson County,28,54663,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4821500000,Texas,Hidalgo County,256,391309,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4821700000,Texas,Hill County,22,23625,Hand marked paper ballots and BMDs for accessibility
+4821900000,Texas,Hockley County,14,13781,Hand marked paper ballots and BMDs for accessibility
+4822100000,Texas,Hood County,16,44831,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4822300000,Texas,Hopkins County,22,23954,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4822500000,Texas,Houston County,22,13444,Hand marked paper ballots and BMDs for accessibility
+4822700000,Texas,Howard County,27,17526,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4822900000,Texas,Hudspeth County,5,2085,Hand marked paper ballots and DREs without VVPAT for accessibility
+4823100000,Texas,Hunt County,34,59367,Ballot Marking Devices for all voters
+4823300000,Texas,Hutchinson County,9,13533,Ballot Marking Devices for all voters
+4823500000,Texas,Irion County,5,1298,DREs without VVPAT for all voters
+4823700000,Texas,Jack County,7,5254,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4823900000,Texas,Jackson County,10,9482,Ballot Marking Devices for all voters
+4824100000,Texas,Jasper County,21,23374,Hand marked paper ballots and BMDs for accessibility
+4824300000,Texas,Jeff Davis County,6,1670,Hand marked paper ballots and BMDs for accessibility
+4824500000,Texas,Jefferson County,140,149372,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4824700000,Texas,Jim Hogg County,6,3800,Hand marked paper ballots and BMDs for accessibility
+4824900000,Texas,Jim Wells County,22,26636,DREs without VVPAT for all voters
+4825100000,Texas,Johnson County,36,105574,Hand marked paper ballots and BMDs for accessibility
+4825300000,Texas,Jones County,12,9635,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4825500000,Texas,Karnes County,15,8359,DREs without VVPAT for all voters
+4825700000,Texas,Kaufman County,31,81901,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4825900000,Texas,Kendall County,11,33836,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4826100000,Texas,Kenedy County,6,296,Hand marked paper ballots and DREs without VVPAT for accessibility
+4826300000,Texas,Kent County,7,592,Hand marked paper ballots and BMDs for accessibility
+4826500000,Texas,Kerr County,21,37726,Hand marked paper ballots and DREs without VVPAT for accessibility
+4826700000,Texas,Kimble County,8,3113,Hand marked paper ballots and BMDs for accessibility
+4826900000,Texas,King County,5,183,Hand marked paper ballots and BMDs for accessibility
+4827100000,Texas,Kinney County,4,2270,Hand marked paper ballots and BMDs for accessibility
+4827300000,Texas,Kleberg County,18,18749,Hand marked paper ballots and BMDs for accessibility
+4827500000,Texas,Knox County,7,2391,Hand marked paper ballots and BMDs for accessibility
+4828300000,Texas,La Salle County,27,4426,Hand marked paper ballots and BMDs for accessibility
+4827700000,Texas,Lamar County,12,32390,Hand marked paper ballots and BMDs for accessibility
+4827900000,Texas,Lamb County,10,8085,Ballot Marking Devices for all voters
+4828100000,Texas,Lampasas County,5,15424,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4828500000,Texas,Lavaca County,20,13661,Hand marked paper ballots and BMDs for accessibility
+4828700000,Texas,Lee County,16,11145,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4828900000,Texas,Leon County,18,11727,DREs without VVPAT for all voters
+4829100000,Texas,Liberty County,30,46155,"Vote Center Jurisdiction, Hand marked paper ballots and BMDs"
+4829300000,Texas,Limestone County,21,13963,DREs without VVPAT for all voters
+4829500000,Texas,Lipscomb County,7,1977,Ballot Marking Devices for all voters
+4829700000,Texas,Live Oak County,15,7572,Hand marked paper ballots and BMDs for accessibility
+4829900000,Texas,Llano County,10,16688,Ballot Marking Devices for all voters
+4830100000,Texas,Loving County,5,111,Hand marked paper ballots and BMDs for accessibility
+4830300000,Texas,Lubbock County,98,183320,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4830500000,Texas,Lynn County,15,4028,Hand marked paper ballots and BMDs for accessibility
+4831300000,Texas,Madison County,5,7822,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4831500000,Texas,Marion County,10,7596,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4831700000,Texas,Martin County,6,3467,DREs without VVPAT for all voters
+4831900000,Texas,Mason County,405,3168,Hand marked paper ballots and BMDs for accessibility
+4832100000,Texas,Matagorda County,19,22026,DREs without VVPAT for all voters
+4832300000,Texas,Maverick County,14,33050,Hand marked paper ballots and BMDs for accessibility
+4830700000,Texas,McCulloch County,4,5361,Hand marked paper ballots and BMDs for accessibility
+4830900000,Texas,McLennan County,92,149461,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4831100000,Texas,McMullen County,5,706,Hand marked paper ballots and BMDs for accessibility
+4832500000,Texas,Medina County,8,33763,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4832700000,Texas,Menard County,7,1469,DREs without VVPAT for all voters
+4832900000,Texas,Midland County,45,90392,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4833100000,Texas,Milam County,12,15838,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4833300000,Texas,Mills County,8,3429,Hand marked paper ballots and BMDs for accessibility
+4833500000,Texas,Mitchell County,7,4524,Ballot Marking Devices for all voters
+4833700000,Texas,Montague County,16,14001,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4833900000,Texas,Montgomery County,101,370060,Ballot Marking Devices for all voters
+4834100000,Texas,Moore County,8,9995,Ballot Marking Devices for all voters
+4834300000,Texas,Morris County,9,8583,Hand marked paper ballots and DREs without VVPAT for accessibility
+4834500000,Texas,Motley County,7,859,Hand marked paper ballots and BMDs for accessibility
+4834700000,Texas,Nacogdoches County,26,38786,Hand marked paper ballots and BMDs for accessibility
+4834900000,Texas,Navarro County,30,29959,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4835100000,Texas,Newton County,23,9400,Hand marked paper ballots and BMDs for accessibility
+4835300000,Texas,Nolan County,10,8871,Hand marked paper ballots and BMDs for accessibility
+4835500000,Texas,Nueces County,127,211652,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4835700000,Texas,Ochiltree County,5,5192,Hand marked paper ballots and BMDs for accessibility
+4835900000,Texas,Oldham County,8,1425,Hand marked paper ballots and BMDs for accessibility
+4836100000,Texas,Orange County,35,54442,Ballot Marking Devices for all voters
+4836300000,Texas,Palo Pinto County,28,18946,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4836500000,Texas,Panola County,20,16808,Hand marked paper ballots and BMDs for accessibility
+4836700000,Texas,Parker County,44,103999,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4836900000,Texas,Parmer County,10,4537,Hand marked paper ballots and BMDs for accessibility
+4837100000,Texas,Pecos County,10,8323,Ballot Marking Devices for all voters
+4837300000,Texas,Polk County,22,40520,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4837500000,Texas,Potter County,25,57736,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4837700000,Texas,Presidio County,8,4789,Hand marked paper ballots and BMDs for accessibility
+4837900000,Texas,Rains County,9,8320,DREs without VVPAT for all voters
+4838100000,Texas,Randall County,23,93313,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4838300000,Texas,Reagan County,5,1879,Ballot Marking Devices for all voters
+4838500000,Texas,Real County,6,2702,Hand marked paper ballots and BMDs for accessibility
+4838700000,Texas,Red River County,20,8489,Hand marked paper ballots and BMDs for accessibility
+4838900000,Texas,Reeves County,12,7558,Hand marked paper ballots and BMDs for accessibility
+4839100000,Texas,Refugio County,11,5007,DREs without VVPAT for all voters
+4839300000,Texas,Roberts County,5,680,Hand marked paper ballots and BMDs for accessibility
+4839500000,Texas,Robertson County,16,11844,Hand marked paper ballots and BMDs for accessibility
+4839700000,Texas,Rockwall County,18,71102,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4839900000,Texas,Runnels County,11,7025,Ballot Marking Devices for all voters
+4840100000,Texas,Rusk County,23,32388,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4840300000,Texas,Sabine County,9,8050,Hand marked paper ballots and BMDs for accessibility
+4840500000,Texas,San Augustine County,12,6108,Hand marked paper ballots and BMDs for accessibility
+4840700000,Texas,San Jacinto County,12,18969,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4840900000,Texas,San Patricio County,26,43248,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4841100000,Texas,San Saba County,4,3776,Hand marked paper ballots and BMDs for accessibility
+4841300000,Texas,Schleicher County,5,1709,Hand marked paper ballots and BMDs for accessibility
+4841500000,Texas,Scurry County,12,9489,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4841700000,Texas,Shackelford County,8,2320,DREs without VVPAT for all voters
+4841900000,Texas,Shelby County,15,15570,Hand marked paper ballots and BMDs for accessibility
+4842100000,Texas,Sherman County,5,1520,Hand marked paper ballots and BMDs for accessibility
+4842300000,Texas,Smith County,74,146149,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4842500000,Texas,Somervell County,4,6712,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4842700000,Texas,Starr County,10,34050,Hand marked paper ballots and BMDs for accessibility
+4842900000,Texas,Stephens County,9,5672,Hand marked paper ballots and BMDs for accessibility
+4843100000,Texas,Sterling County,4,939,DREs without VVPAT for all voters
+4843300000,Texas,Stonewall County,4,953,Ballot Marking Devices for all voters
+4843500000,Texas,Sutton County,5,2449,Hand marked paper ballots and BMDs for accessibility
+4843700000,Texas,Swisher County,9,3941,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4843900000,Texas,Tarrant County,730,1212524,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4844100000,Texas,Taylor County,35,83696,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4844300000,Texas,Terrell County,5,673,Hand marked paper ballots and BMDs for accessibility
+4844500000,Texas,Terry County,8,6589,Ballot Marking Devices for all voters
+4844700000,Texas,Throckmorton County,5,1216,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4844900000,Texas,Titus County,19,17666,Hand marked paper ballots and BMDs for accessibility
+4845100000,Texas,Tom Green County,35,70086,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4845300000,Texas,Travis County,248,854577,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4845500000,Texas,Trinity County,20,11541,Hand marked paper ballots and BMDs for accessibility
+4845700000,Texas,Tyler County,18,14556,Hand marked paper ballots and BMDs for accessibility
+4845900000,Texas,Upshur County,22,28619,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4846100000,Texas,Upton County,5,2207,Ballot Marking Devices for all voters
+4846300000,Texas,Uvalde County,14,17420,Hand marked paper ballots and BMDs for accessibility
+4846500000,Texas,Val Verde County,17,28927,Hand marked paper ballots and BMDs for accessibility
+4846700000,Texas,Van Zandt County,19,38965,Hand marked paper ballots and BMDs for accessibility
+4846900000,Texas,Victoria County,35,56612,"Vote Center Jurisdiction, DREs without VVPAT for all voters"
+4847100000,Texas,Walker County,17,35038,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4847300000,Texas,Waller County,21,35116,DREs without VVPAT for all voters
+4847500000,Texas,Ward County,9,6880,Hand marked paper ballots and BMDs for accessibility
+4847700000,Texas,Washington County,22,23947,Hand marked paper ballots and BMDs for accessibility
+4847900000,Texas,Webb County,70,137840,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4848100000,Texas,Wharton County,12,25697,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4848300000,Texas,Wheeler County,11,3514,Ballot Marking Devices for all voters
+4848500000,Texas,Wichita County,61,83575,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4848700000,Texas,Wilbarger County,5,8196,DREs without VVPAT for all voters
+4848900000,Texas,Willacy County,17,12804,Hand marked paper ballots and DREs without VVPAT for accessibility
+4849100000,Texas,Williamson County,58,376672,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4849300000,Texas,Wilson County,17,35036,Hand marked paper ballots and BMDs for accessibility
+4849500000,Texas,Winkler County,6,4013,Hand marked paper ballots and BMDs for accessibility
+4849700000,Texas,Wise County,26,45643,DREs without VVPAT for all voters
+4849900000,Texas,Wood County,14,32382,DREs without VVPAT for all voters
+4850100000,Texas,Yoakum County,7,4407,Ballot Marking Devices for all voters
+4850300000,Texas,Young County,10,11769,"Vote Center Jurisdiction, Ballot Marking Devices for all voters"
+4850500000,Texas,Zapata County,8,8257,Hand marked paper ballots and DREs without VVPAT for accessibility
+4850700000,Texas,Zavala County,6,8066,Hand marked paper ballots and BMDs for accessibility
