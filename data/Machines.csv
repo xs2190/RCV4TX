@@ -1,0 +1,29 @@
+Make,Model,EquipmentType,RCVcompatible
+ContentActive,Electronic Pollbook,Electronic Poll Book,0
+Data Unavailable,Data Unavailable,Electronic Poll Book,0
+Democracy Live,OmniBallot Online,Remote Ballot Marking System: Server-Side,0
+Election Systems & Software,AutoMARK,Ballot Marking Device,1
+Election Systems & Software,DS200,Hand-Fed Optical Scanner,1
+Election Systems & Software,DS450,Batch-Fed Optical Scanner,1
+Election Systems & Software,DS850,Batch-Fed Optical Scanner,1
+Election Systems & Software,ExpressPoll,Electronic Poll Book,0
+Election Systems & Software,ExpressTouch,DRE-Touchscreen,1
+Election Systems & Software,ExpressVote,Ballot Marking Device,1
+Election Systems & Software,iVotronic,DRE-Touchscreen,0
+Election Systems & Software,Model 100,Hand-Fed Optical Scanner,0
+Election Systems & Software,Model 650,Batch-Fed Optical Scanner,0
+Hart InterCivic,Ballot Now,Batch-Fed Optical Scanner,0
+Hart InterCivic,eScan,Hand-Fed Optical Scanner,0
+Hart InterCivic,eSlate,DRE-Dial,0
+Hart InterCivic,Verity Central,Batch-Fed Optical Scanner,1
+Hart InterCivic,Verity Duo,Ballot Marking Device,0
+Hart InterCivic,Verity Scan,Hand-Fed Optical Scanner,0
+Hart InterCivic,Verity Touch,DRE-Touchscreen,1
+Hart InterCivic,Verity Touch Writer,Ballot Marking Device,1
+KNOWiNK,Poll Pad,Electronic Poll Book,0
+Montgomery County,Montgomery County Elections eVote,Electronic Poll Book,0
+Not Applicable,Not Applicable,Hand Counted Paper Ballots,0
+Not Applicable,Not Applicable,Paper Poll Book,0
+Robis,AskED ePollbook,Electronic Poll Book,0
+Tenex,Precinct Central,Electronic Poll Book,0
+Votec,VoteSafe,Electronic Poll Book,0

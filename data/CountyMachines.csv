@@ -1,0 +1,829 @@
+FIPS code,State,Jurisdiction,Equipment Type,Make,Model,VVPAT,Polling Place,Accessible Use,Early Voting,Absentee Ballots,County
+4800100000,Texas,Anderson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,ANDERSON
+4800100000,Texas,Anderson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ANDERSON
+4800100000,Texas,Anderson County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,ANDERSON
+4800100000,Texas,Anderson County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,ANDERSON
+4800300000,Texas,Andrews County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,ANDREWS
+4800300000,Texas,Andrews County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ANDREWS
+4800300000,Texas,Andrews County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,ANDREWS
+4800500000,Texas,Angelina County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,ANGELINA
+4800500000,Texas,Angelina County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ANGELINA
+4800500000,Texas,Angelina County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,ANGELINA
+4800700000,Texas,Aransas County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,ARANSAS
+4800700000,Texas,Aransas County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,ARANSAS
+4800700000,Texas,Aransas County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,ARANSAS
+4800900000,Texas,Archer County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,ARCHER
+4800900000,Texas,Archer County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,ARCHER
+4800900000,Texas,Archer County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,ARCHER
+4801100000,Texas,Armstrong County,DRE-Touchscreen,Election Systems & Software,iVotronic,No,Yes,Yes,Yes,No,ARMSTRONG
+4801100000,Texas,Armstrong County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,Yes,No,Yes,Yes,ARMSTRONG
+4801100000,Texas,Armstrong County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,ARMSTRONG
+4801300000,Texas,Atascosa County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,ATASCOSA
+4801300000,Texas,Atascosa County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ATASCOSA
+4801300000,Texas,Atascosa County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,ATASCOSA
+4801300000,Texas,Atascosa County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,ATASCOSA
+4801500000,Texas,Austin County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,AUSTIN
+4801500000,Texas,Austin County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,AUSTIN
+4801500000,Texas,Austin County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,AUSTIN
+4801500000,Texas,Austin County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,AUSTIN
+4801700000,Texas,Bailey County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,BAILEY
+4801700000,Texas,Bailey County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,BAILEY
+4801700000,Texas,Bailey County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BAILEY
+4801900000,Texas,Bandera County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,BANDERA
+4801900000,Texas,Bandera County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,BANDERA
+4801900000,Texas,Bandera County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BANDERA
+4802100000,Texas,Bastrop County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,Yes,No,Yes,Yes,BASTROP
+4802100000,Texas,Bastrop County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BASTROP
+4802100000,Texas,Bastrop County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,BASTROP
+4802300000,Texas,Baylor County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,BAYLOR
+4802300000,Texas,Baylor County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BAYLOR
+4802300000,Texas,Baylor County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BAYLOR
+4802500000,Texas,Bee County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,BEE
+4802500000,Texas,Bee County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,BEE
+4802500000,Texas,Bee County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BEE
+4802700000,Texas,Bell County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,BELL
+4802700000,Texas,Bell County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BELL
+4802700000,Texas,Bell County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,No,No,No,Yes,BELL
+4802700000,Texas,Bell County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,BELL
+4802900000,Texas,Bexar County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,BEXAR
+4802900000,Texas,Bexar County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BEXAR
+4802900000,Texas,Bexar County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,No,No,No,Yes,BEXAR
+4802900000,Texas,Bexar County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,BEXAR
+4802900000,Texas,Bexar County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,BEXAR
+4802900000,Texas,Bexar County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,BEXAR
+4803100000,Texas,Blanco County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,BLANCO
+4803100000,Texas,Blanco County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BLANCO
+4803100000,Texas,Blanco County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BLANCO
+4803300000,Texas,Borden County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,BORDEN
+4803300000,Texas,Borden County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BORDEN
+4803300000,Texas,Borden County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BORDEN
+4803500000,Texas,Bosque County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,BOSQUE
+4803500000,Texas,Bosque County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BOSQUE
+4803500000,Texas,Bosque County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,BOSQUE
+4803700000,Texas,Bowie County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,BOWIE
+4803700000,Texas,Bowie County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BOWIE
+4803700000,Texas,Bowie County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,BOWIE
+4803700000,Texas,Bowie County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,BOWIE
+4803900000,Texas,Brazoria County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,BRAZORIA
+4803900000,Texas,Brazoria County,Batch-Fed Optical Scanner,Hart InterCivic,Ballot Now,N/A,No,No,No,Yes,BRAZORIA
+4803900000,Texas,Brazoria County,Electronic Poll Book,Robis,AskED ePollbook,N/A,Yes,No,Yes,No,BRAZORIA
+4803900000,Texas,Brazoria County,Remote Ballot Marking System: Server-Side,Democracy Live,OmniBallot Online,N/A,No,No,No,No,BRAZORIA
+4804100000,Texas,Brazos County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,BRAZOS
+4804100000,Texas,Brazos County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,BRAZOS
+4804100000,Texas,Brazos County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BRAZOS
+4804100000,Texas,Brazos County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,BRAZOS
+4804300000,Texas,Brewster County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,BREWSTER
+4804300000,Texas,Brewster County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BREWSTER
+4804300000,Texas,Brewster County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BREWSTER
+4804500000,Texas,Briscoe County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,BRISCOE
+4804500000,Texas,Briscoe County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,BRISCOE
+4804500000,Texas,Briscoe County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,BRISCOE
+4804700000,Texas,Brooks County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,BROOKS
+4804700000,Texas,Brooks County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,BROOKS
+4804700000,Texas,Brooks County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,BROOKS
+4804900000,Texas,Brown County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,BROWN
+4804900000,Texas,Brown County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,BROWN
+4804900000,Texas,Brown County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,BROWN
+4805100000,Texas,Burleson County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,BURLESON
+4805100000,Texas,Burleson County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,BURLESON
+4805100000,Texas,Burleson County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BURLESON
+4805300000,Texas,Burnet County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,BURNET
+4805300000,Texas,Burnet County,Batch-Fed Optical Scanner,Hart InterCivic,Ballot Now,N/A,No,No,No,Yes,BURNET
+4805300000,Texas,Burnet County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,BURNET
+4805500000,Texas,Caldwell County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,CALDWELL
+4805500000,Texas,Caldwell County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,CALDWELL
+4805500000,Texas,Caldwell County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,CALDWELL
+4805500000,Texas,Caldwell County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,CALDWELL
+4805700000,Texas,Calhoun County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,CALHOUN
+4805700000,Texas,Calhoun County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,CALHOUN
+4805700000,Texas,Calhoun County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,CALHOUN
+4805900000,Texas,Callahan County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,CALLAHAN
+4805900000,Texas,Callahan County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,CALLAHAN
+4805900000,Texas,Callahan County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CALLAHAN
+4806100000,Texas,Cameron County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,CAMERON
+4806100000,Texas,Cameron County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,CAMERON
+4806100000,Texas,Cameron County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,No,No,No,Yes,CAMERON
+4806100000,Texas,Cameron County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,CAMERON
+4806100000,Texas,Cameron County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,CAMERON
+4806300000,Texas,Camp County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,CAMP
+4806300000,Texas,Camp County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,CAMP
+4806300000,Texas,Camp County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,CAMP
+4806500000,Texas,Carson County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,CARSON
+4806500000,Texas,Carson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,CARSON
+4806500000,Texas,Carson County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,CARSON
+4806700000,Texas,Cass County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,CASS
+4806700000,Texas,Cass County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,CASS
+4806700000,Texas,Cass County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CASS
+4806900000,Texas,Castro County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,CASTRO
+4806900000,Texas,Castro County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,No,No,No,Yes,CASTRO
+4806900000,Texas,Castro County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CASTRO
+4807100000,Texas,Chambers County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,CHAMBERS
+4807100000,Texas,Chambers County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,CHAMBERS
+4807100000,Texas,Chambers County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CHAMBERS
+4807100000,Texas,Chambers County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,CHAMBERS
+4807300000,Texas,Cherokee County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,CHEROKEE
+4807300000,Texas,Cherokee County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,CHEROKEE
+4807300000,Texas,Cherokee County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CHEROKEE
+4807500000,Texas,Childress County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,CHILDRESS
+4807500000,Texas,Childress County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,CHILDRESS
+4807500000,Texas,Childress County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,CHILDRESS
+4807700000,Texas,Clay County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,CLAY
+4807700000,Texas,Clay County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,CLAY
+4807700000,Texas,Clay County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,CLAY
+4807900000,Texas,Cochran County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,COCHRAN
+4807900000,Texas,Cochran County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,COCHRAN
+4807900000,Texas,Cochran County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,COCHRAN
+4808100000,Texas,Coke County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,COKE
+4808100000,Texas,Coke County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,No,No,No,Yes,COKE
+4808100000,Texas,Coke County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,COKE
+4808300000,Texas,Coleman County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,COLEMAN
+4808300000,Texas,Coleman County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,COLEMAN
+4808300000,Texas,Coleman County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,COLEMAN
+4808500000,Texas,Collin County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,COLLIN
+4808500000,Texas,Collin County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,COLLIN
+4808500000,Texas,Collin County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,No,No,No,Yes,COLLIN
+4808500000,Texas,Collin County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,COLLIN
+4808500000,Texas,Collin County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,COLLIN
+4808500000,Texas,Collin County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,COLLIN
+4808500000,Texas,Collin County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,COLLIN
+4808700000,Texas,Collingsworth County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,COLLINGSWORTH
+4808700000,Texas,Collingsworth County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,COLLINGSWORTH
+4808700000,Texas,Collingsworth County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,COLLINGSWORTH
+4808900000,Texas,Colorado County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,COLORADO
+4808900000,Texas,Colorado County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,COLORADO
+4808900000,Texas,Colorado County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,COLORADO
+4809100000,Texas,Comal County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,COMAL
+4809100000,Texas,Comal County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,COMAL
+4809100000,Texas,Comal County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,COMAL
+4809300000,Texas,Comanche County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,COMANCHE
+4809300000,Texas,Comanche County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,COMANCHE
+4809300000,Texas,Comanche County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,COMANCHE
+4809500000,Texas,Concho County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,CONCHO
+4809500000,Texas,Concho County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,CONCHO
+4809500000,Texas,Concho County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CONCHO
+4809700000,Texas,Cooke County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,COOKE
+4809700000,Texas,Cooke County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,COOKE
+4809700000,Texas,Cooke County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,COOKE
+4809700000,Texas,Cooke County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,COOKE
+4809900000,Texas,Coryell County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,CORYELL
+4809900000,Texas,Coryell County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,CORYELL
+4809900000,Texas,Coryell County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CORYELL
+4810100000,Texas,Cottle County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,COTTLE
+4810100000,Texas,Cottle County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,COTTLE
+4810100000,Texas,Cottle County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,COTTLE
+4810300000,Texas,Crane County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,CRANE
+4810300000,Texas,Crane County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,CRANE
+4810300000,Texas,Crane County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,CRANE
+4810500000,Texas,Crockett County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,CROCKETT
+4810500000,Texas,Crockett County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,CROCKETT
+4810500000,Texas,Crockett County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,CROCKETT
+4810700000,Texas,Crosby County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,CROSBY
+4810700000,Texas,Crosby County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,CROSBY
+4810700000,Texas,Crosby County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,CROSBY
+4810900000,Texas,Culberson County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,CULBERSON
+4810900000,Texas,Culberson County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,CULBERSON
+4810900000,Texas,Culberson County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,CULBERSON
+4811100000,Texas,Dallam County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,DALLAM
+4811100000,Texas,Dallam County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,DALLAM
+4811100000,Texas,Dallam County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,DALLAM
+4811300000,Texas,Dallas County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,DALLAS
+4811300000,Texas,Dallas County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,DALLAS
+4811300000,Texas,Dallas County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,DALLAS
+4811300000,Texas,Dallas County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,No,No,No,Yes,DALLAS
+4811300000,Texas,Dallas County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,DALLAS
+4811500000,Texas,Dawson County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,DAWSON
+4811500000,Texas,Dawson County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,DAWSON
+4811500000,Texas,Dawson County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,DAWSON
+4812300000,Texas,DeWitt County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,DEWITT
+4812300000,Texas,DeWitt County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,DEWITT
+4812300000,Texas,DeWitt County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,DEWITT
+4811700000,Texas,Deaf Smith County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,DEAF SMITH
+4811700000,Texas,Deaf Smith County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,DEAF SMITH
+4811700000,Texas,Deaf Smith County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,DEAF SMITH
+4811900000,Texas,Delta County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,DELTA
+4811900000,Texas,Delta County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,DELTA
+4811900000,Texas,Delta County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,DELTA
+4812100000,Texas,Denton County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,DENTON
+4812100000,Texas,Denton County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,DENTON
+4812100000,Texas,Denton County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,DENTON
+4812100000,Texas,Denton County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,DENTON
+4812500000,Texas,Dickens County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,DICKENS
+4812500000,Texas,Dickens County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,DICKENS
+4812500000,Texas,Dickens County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,DICKENS
+4812700000,Texas,Dimmit County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,DIMMIT
+4812700000,Texas,Dimmit County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,DIMMIT
+4812700000,Texas,Dimmit County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,DIMMIT
+4812900000,Texas,Donley County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,DONLEY
+4812900000,Texas,Donley County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,DONLEY
+4812900000,Texas,Donley County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,DONLEY
+4813100000,Texas,Duval County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,DUVAL
+4813100000,Texas,Duval County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,DUVAL
+4813100000,Texas,Duval County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,DUVAL
+4813300000,Texas,Eastland County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,EASTLAND
+4813300000,Texas,Eastland County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,EASTLAND
+4813300000,Texas,Eastland County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,EASTLAND
+4813500000,Texas,Ector County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,ECTOR
+4813500000,Texas,Ector County,Batch-Fed Optical Scanner,Hart InterCivic,Ballot Now,N/A,No,No,No,Yes,ECTOR
+4813500000,Texas,Ector County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,ECTOR
+4813700000,Texas,Edwards County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,EDWARDS
+4813700000,Texas,Edwards County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,EDWARDS
+4813700000,Texas,Edwards County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,EDWARDS
+4814100000,Texas,El Paso County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,EL PASO
+4814100000,Texas,El Paso County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,EL PASO
+4814100000,Texas,El Paso County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,EL PASO
+4814100000,Texas,El Paso County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,EL PASO
+4814100000,Texas,El Paso County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,EL PASO
+4813900000,Texas,Ellis County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,ELLIS
+4813900000,Texas,Ellis County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ELLIS
+4813900000,Texas,Ellis County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,ELLIS
+4813900000,Texas,Ellis County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,ELLIS
+4814300000,Texas,Erath County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,ERATH
+4814300000,Texas,Erath County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ERATH
+4814300000,Texas,Erath County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,ERATH
+4814300000,Texas,Erath County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,ERATH
+4814500000,Texas,Falls County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,FALLS
+4814500000,Texas,Falls County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,FALLS
+4814500000,Texas,Falls County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,FALLS
+4814700000,Texas,Fannin County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,FANNIN
+4814700000,Texas,Fannin County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,FANNIN
+4814700000,Texas,Fannin County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,No,No,Yes,No,FANNIN
+4814700000,Texas,Fannin County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,No,No,FANNIN
+4814900000,Texas,Fayette County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,FAYETTE
+4814900000,Texas,Fayette County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,FAYETTE
+4814900000,Texas,Fayette County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,FAYETTE
+4815100000,Texas,Fisher County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,FISHER
+4815100000,Texas,Fisher County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,FISHER
+4815100000,Texas,Fisher County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,FISHER
+4815300000,Texas,Floyd County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,FLOYD
+4815300000,Texas,Floyd County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,FLOYD
+4815300000,Texas,Floyd County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,FLOYD
+4815500000,Texas,Foard County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,FOARD
+4815500000,Texas,Foard County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,Yes,No,Yes,Yes,FOARD
+4815500000,Texas,Foard County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,FOARD
+4815700000,Texas,Fort Bend County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,FORT BEND
+4815700000,Texas,Fort Bend County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,FORT BEND
+4815700000,Texas,Fort Bend County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,FORT BEND
+4815700000,Texas,Fort Bend County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,FORT BEND
+4815700000,Texas,Fort Bend County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,FORT BEND
+4815900000,Texas,Franklin County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,FRANKLIN
+4815900000,Texas,Franklin County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,FRANKLIN
+4815900000,Texas,Franklin County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,FRANKLIN
+4816100000,Texas,Freestone County,DRE-Touchscreen,Election Systems & Software,iVotronic,No,Yes,Yes,Yes,No,FREESTONE
+4816100000,Texas,Freestone County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,No,No,No,Yes,FREESTONE
+4816100000,Texas,Freestone County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,FREESTONE
+4816300000,Texas,Frio County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,FRIO
+4816300000,Texas,Frio County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,FRIO
+4816300000,Texas,Frio County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,FRIO
+4816500000,Texas,Gaines County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,GAINES
+4816500000,Texas,Gaines County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,GAINES
+4816500000,Texas,Gaines County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,GAINES
+4816700000,Texas,Galveston County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,GALVESTON
+4816700000,Texas,Galveston County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,GALVESTON
+4816700000,Texas,Galveston County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,GALVESTON
+4816900000,Texas,Garza County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,GARZA
+4816900000,Texas,Garza County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,GARZA
+4816900000,Texas,Garza County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,GARZA
+4817100000,Texas,Gillespie County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,GILLESPIE
+4817100000,Texas,Gillespie County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,GILLESPIE
+4817100000,Texas,Gillespie County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,GILLESPIE
+4817300000,Texas,Glasscock County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,Yes,No,Yes,Yes,GLASSCOCK
+4817300000,Texas,Glasscock County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,GLASSCOCK
+4817300000,Texas,Glasscock County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,GLASSCOCK
+4817500000,Texas,Goliad County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,GOLIAD
+4817500000,Texas,Goliad County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,GOLIAD
+4817500000,Texas,Goliad County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,GOLIAD
+4817700000,Texas,Gonzales County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,GONZALES
+4817700000,Texas,Gonzales County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,GONZALES
+4817700000,Texas,Gonzales County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,GONZALES
+4817700000,Texas,Gonzales County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,GONZALES
+4817900000,Texas,Gray County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,GRAY
+4817900000,Texas,Gray County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,GRAY
+4817900000,Texas,Gray County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,GRAY
+4818100000,Texas,Grayson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,GRAYSON
+4818100000,Texas,Grayson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,GRAYSON
+4818100000,Texas,Grayson County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,GRAYSON
+4818100000,Texas,Grayson County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,GRAYSON
+4818300000,Texas,Gregg County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,GREGG
+4818300000,Texas,Gregg County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,GREGG
+4818300000,Texas,Gregg County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,GREGG
+4818300000,Texas,Gregg County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,GREGG
+4818500000,Texas,Grimes County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,GRIMES
+4818500000,Texas,Grimes County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,GRIMES
+4818500000,Texas,Grimes County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,GRIMES
+4818700000,Texas,Guadalupe County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,GUADALUPE
+4818700000,Texas,Guadalupe County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,GUADALUPE
+4818700000,Texas,Guadalupe County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,GUADALUPE
+4818700000,Texas,Guadalupe County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,GUADALUPE
+4818700000,Texas,Guadalupe County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,GUADALUPE
+4818700000,Texas,Guadalupe County,Remote Ballot Marking System: Server-Side,Democracy Live,OmniBallot Online,N/A,No,No,No,No,GUADALUPE
+4818900000,Texas,Hale County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,HALE
+4818900000,Texas,Hale County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,HALE
+4818900000,Texas,Hale County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HALE
+4819100000,Texas,Hall County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HALL
+4819100000,Texas,Hall County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,HALL
+4819100000,Texas,Hall County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HALL
+4819300000,Texas,Hamilton County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,HAMILTON
+4819300000,Texas,Hamilton County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HAMILTON
+4819300000,Texas,Hamilton County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,HAMILTON
+4819500000,Texas,Hansford County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,Yes,No,Yes,Yes,HANSFORD
+4819500000,Texas,Hansford County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,HANSFORD
+4819500000,Texas,Hansford County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HANSFORD
+4819700000,Texas,Hardeman County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,HARDEMAN
+4819700000,Texas,Hardeman County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,HARDEMAN
+4819700000,Texas,Hardeman County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,HARDEMAN
+4819900000,Texas,Hardin County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,HARDIN
+4819900000,Texas,Hardin County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,HARDIN
+4819900000,Texas,Hardin County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HARDIN
+4820100000,Texas,Harris County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,HARRIS
+4820100000,Texas,Harris County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,HARRIS
+4820100000,Texas,Harris County,Electronic Poll Book,ContentActive,Electronic Pollbook,N/A,Yes,No,Yes,No,HARRIS
+4820100000,Texas,Harris County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,HARRIS
+4820300000,Texas,Harrison County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,HARRISON
+4820300000,Texas,Harrison County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,HARRISON
+4820300000,Texas,Harrison County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HARRISON
+4820500000,Texas,Hartley County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,HARTLEY
+4820500000,Texas,Hartley County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HARTLEY
+4820500000,Texas,Hartley County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,HARTLEY
+4820700000,Texas,Haskell County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,Yes,No,Yes,Yes,HASKELL
+4820700000,Texas,Haskell County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,HASKELL
+4820700000,Texas,Haskell County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HASKELL
+4820900000,Texas,Hays County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,HAYS
+4820900000,Texas,Hays County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,HAYS
+4820900000,Texas,Hays County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,HAYS
+4820900000,Texas,Hays County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,HAYS
+4821100000,Texas,Hemphill County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,HEMPHILL
+4821100000,Texas,Hemphill County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HEMPHILL
+4821100000,Texas,Hemphill County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,HEMPHILL
+4821300000,Texas,Henderson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HENDERSON
+4821300000,Texas,Henderson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,HENDERSON
+4821300000,Texas,Henderson County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,HENDERSON
+4821300000,Texas,Henderson County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,HENDERSON
+4821500000,Texas,Hidalgo County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,HIDALGO
+4821500000,Texas,Hidalgo County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,HIDALGO
+4821500000,Texas,Hidalgo County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,HIDALGO
+4821500000,Texas,Hidalgo County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,HIDALGO
+4821700000,Texas,Hill County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,HILL
+4821700000,Texas,Hill County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,HILL
+4821700000,Texas,Hill County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,HILL
+4821900000,Texas,Hockley County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,HOCKLEY
+4821900000,Texas,Hockley County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HOCKLEY
+4821900000,Texas,Hockley County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HOCKLEY
+4821900000,Texas,Hockley County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,HOCKLEY
+4822100000,Texas,Hood County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,HOOD
+4822100000,Texas,Hood County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,HOOD
+4822100000,Texas,Hood County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HOOD
+4822300000,Texas,Hopkins County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,HOPKINS
+4822300000,Texas,Hopkins County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,HOPKINS
+4822300000,Texas,Hopkins County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HOPKINS
+4822500000,Texas,Houston County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,HOUSTON
+4822500000,Texas,Houston County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HOUSTON
+4822500000,Texas,Houston County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HOUSTON
+4822700000,Texas,Howard County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,HOWARD
+4822700000,Texas,Howard County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HOWARD
+4822700000,Texas,Howard County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,HOWARD
+4822700000,Texas,Howard County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,HOWARD
+4822900000,Texas,Hudspeth County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,HUDSPETH
+4822900000,Texas,Hudspeth County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,HUDSPETH
+4822900000,Texas,Hudspeth County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,HUDSPETH
+4823100000,Texas,Hunt County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,HUNT
+4823100000,Texas,Hunt County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,HUNT
+4823100000,Texas,Hunt County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,HUNT
+4823300000,Texas,Hutchinson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,HUTCHINSON
+4823300000,Texas,Hutchinson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,HUTCHINSON
+4823300000,Texas,Hutchinson County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,HUTCHINSON
+4823500000,Texas,Irion County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,IRION
+4823500000,Texas,Irion County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,IRION
+4823500000,Texas,Irion County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,IRION
+4823700000,Texas,Jack County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,JACK
+4823700000,Texas,Jack County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,JACK
+4823700000,Texas,Jack County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,JACK
+4823900000,Texas,Jackson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,JACKSON
+4823900000,Texas,Jackson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,JACKSON
+4823900000,Texas,Jackson County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,JACKSON
+4824100000,Texas,Jasper County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,Yes,No,No,Yes,JASPER
+4824100000,Texas,Jasper County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,JASPER
+4824100000,Texas,Jasper County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,JASPER
+4824100000,Texas,Jasper County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,No,No,Yes,No,JASPER
+4824300000,Texas,Jeff Davis County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,JEFF DAVIS
+4824300000,Texas,Jeff Davis County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,JEFF DAVIS
+4824300000,Texas,Jeff Davis County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,JEFF DAVIS
+4824500000,Texas,Jefferson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,JEFFERSON
+4824500000,Texas,Jefferson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,No,Yes,JEFFERSON
+4824500000,Texas,Jefferson County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,JEFFERSON
+4824700000,Texas,Jim Hogg County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,JIM HOGG
+4824700000,Texas,Jim Hogg County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,JIM HOGG
+4824700000,Texas,Jim Hogg County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,JIM HOGG
+4824900000,Texas,Jim Wells County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,JIM WELLS
+4824900000,Texas,Jim Wells County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,JIM WELLS
+4824900000,Texas,Jim Wells County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,JIM WELLS
+4825100000,Texas,Johnson County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,Yes,No,Yes,Yes,JOHNSON
+4825100000,Texas,Johnson County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,JOHNSON
+4825100000,Texas,Johnson County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,JOHNSON
+4825300000,Texas,Jones County,DRE-Touchscreen,Election Systems & Software,iVotronic,No,Yes,Yes,Yes,No,JONES
+4825300000,Texas,Jones County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,No,No,No,Yes,JONES
+4825300000,Texas,Jones County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,JONES
+4825500000,Texas,Karnes County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,KARNES
+4825500000,Texas,Karnes County,Hand-Fed Optical Scanner,Hart InterCivic,eScan,N/A,No,No,No,Yes,KARNES
+4825500000,Texas,Karnes County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,KARNES
+4825700000,Texas,Kaufman County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,KAUFMAN
+4825700000,Texas,Kaufman County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,KAUFMAN
+4825700000,Texas,Kaufman County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,KAUFMAN
+4825900000,Texas,Kendall County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,KENDALL
+4825900000,Texas,Kendall County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,KENDALL
+4825900000,Texas,Kendall County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,KENDALL
+4826100000,Texas,Kenedy County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,KENEDY
+4826100000,Texas,Kenedy County,Hand-Fed Optical Scanner,Hart InterCivic,eScan,N/A,Yes,No,Yes,Yes,KENEDY
+4826100000,Texas,Kenedy County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,KENEDY
+4826300000,Texas,Kent County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,KENT
+4826300000,Texas,Kent County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,KENT
+4826300000,Texas,Kent County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,KENT
+4826500000,Texas,Kerr County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,KERR
+4826500000,Texas,Kerr County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,KERR
+4826500000,Texas,Kerr County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,KERR
+4826700000,Texas,Kimble County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,KIMBLE
+4826700000,Texas,Kimble County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,KIMBLE
+4826700000,Texas,Kimble County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,KIMBLE
+4826900000,Texas,King County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,KING
+4826900000,Texas,King County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,KING
+4826900000,Texas,King County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,KING
+4827100000,Texas,Kinney County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,KINNEY
+4827100000,Texas,Kinney County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,KINNEY
+4827100000,Texas,Kinney County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,KINNEY
+4827300000,Texas,Kleberg County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,KLEBERG
+4827300000,Texas,Kleberg County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,KLEBERG
+4827300000,Texas,Kleberg County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,KLEBERG
+4827500000,Texas,Knox County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,KNOX
+4827500000,Texas,Knox County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,KNOX
+4827500000,Texas,Knox County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,KNOX
+4828300000,Texas,La Salle County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,LA SALLE
+4828300000,Texas,La Salle County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,LA SALLE
+4828300000,Texas,La Salle County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,LA SALLE
+4827700000,Texas,Lamar County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,LAMAR
+4827700000,Texas,Lamar County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,LAMAR
+4827700000,Texas,Lamar County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,LAMAR
+4827900000,Texas,Lamb County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,LAMB
+4827900000,Texas,Lamb County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,LAMB
+4827900000,Texas,Lamb County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,LAMB
+4827900000,Texas,Lamb County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,LAMB
+4828100000,Texas,Lampasas County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,LAMPASAS
+4828100000,Texas,Lampasas County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,LAMPASAS
+4828100000,Texas,Lampasas County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,LAMPASAS
+4828500000,Texas,Lavaca County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,LAVACA
+4828500000,Texas,Lavaca County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,LAVACA
+4828500000,Texas,Lavaca County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,LAVACA
+4828700000,Texas,Lee County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,LEE
+4828700000,Texas,Lee County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,LEE
+4828700000,Texas,Lee County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,LEE
+4828700000,Texas,Lee County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,LEE
+4828900000,Texas,Leon County,DRE-Touchscreen,Election Systems & Software,iVotronic,No,Yes,Yes,Yes,No,LEON
+4828900000,Texas,Leon County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,No,No,No,Yes,LEON
+4828900000,Texas,Leon County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,LEON
+4829100000,Texas,Liberty County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,LIBERTY
+4829100000,Texas,Liberty County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,LIBERTY
+4829100000,Texas,Liberty County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,LIBERTY
+4829300000,Texas,Limestone County,DRE-Touchscreen,Election Systems & Software,iVotronic,No,Yes,Yes,Yes,No,LIMESTONE
+4829300000,Texas,Limestone County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,No,No,No,Yes,LIMESTONE
+4829300000,Texas,Limestone County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,LIMESTONE
+4829500000,Texas,Lipscomb County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,LIPSCOMB
+4829500000,Texas,Lipscomb County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,LIPSCOMB
+4829500000,Texas,Lipscomb County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,LIPSCOMB
+4829700000,Texas,Live Oak County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,LIVE OAK
+4829700000,Texas,Live Oak County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,LIVE OAK
+4829700000,Texas,Live Oak County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,LIVE OAK
+4829900000,Texas,Llano County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,LLANO
+4829900000,Texas,Llano County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,LLANO
+4829900000,Texas,Llano County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,LLANO
+4830100000,Texas,Loving County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,LOVING
+4830100000,Texas,Loving County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,LOVING
+4830100000,Texas,Loving County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,LOVING
+4830300000,Texas,Lubbock County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,LUBBOCK
+4830300000,Texas,Lubbock County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,LUBBOCK
+4830300000,Texas,Lubbock County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,LUBBOCK
+4830300000,Texas,Lubbock County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,Yes,No,Yes,No,LUBBOCK
+4830500000,Texas,Lynn County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,LYNN
+4830500000,Texas,Lynn County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,LYNN
+4830500000,Texas,Lynn County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,LYNN
+4831300000,Texas,Madison County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,MADISON
+4831300000,Texas,Madison County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,MADISON
+4831300000,Texas,Madison County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,MADISON
+4831500000,Texas,Marion County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,MARION
+4831500000,Texas,Marion County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,MARION
+4831500000,Texas,Marion County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,MARION
+4831700000,Texas,Martin County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,MARTIN
+4831700000,Texas,Martin County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,MARTIN
+4831700000,Texas,Martin County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,MARTIN
+4831900000,Texas,Mason County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,Yes,No,Yes,Yes,MASON
+4831900000,Texas,Mason County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,MASON
+4831900000,Texas,Mason County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,MASON
+4832100000,Texas,Matagorda County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,MATAGORDA
+4832100000,Texas,Matagorda County,Hand-Fed Optical Scanner,Hart InterCivic,eScan,N/A,No,No,No,Yes,MATAGORDA
+4832100000,Texas,Matagorda County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,MATAGORDA
+4832300000,Texas,Maverick County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,Yes,No,Yes,Yes,MAVERICK
+4832300000,Texas,Maverick County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,MAVERICK
+4832300000,Texas,Maverick County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,MAVERICK
+4830700000,Texas,McCulloch County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,MCCULLOCH
+4830700000,Texas,McCulloch County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,MCCULLOCH
+4830700000,Texas,McCulloch County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,MCCULLOCH
+4830900000,Texas,McLennan County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,MCLENNAN
+4830900000,Texas,McLennan County,Batch-Fed Optical Scanner,Hart InterCivic,Ballot Now,N/A,No,No,No,Yes,MCLENNAN
+4830900000,Texas,McLennan County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,MCLENNAN
+4831100000,Texas,McMullen County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,MCMULLEN
+4831100000,Texas,McMullen County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,MCMULLEN
+4831100000,Texas,McMullen County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,MCMULLEN
+4832500000,Texas,Medina County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,MEDINA
+4832500000,Texas,Medina County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,MEDINA
+4832500000,Texas,Medina County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,MEDINA
+4832700000,Texas,Menard County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,MENARD
+4832700000,Texas,Menard County,Hand-Fed Optical Scanner,Hart InterCivic,eScan,N/A,No,No,No,Yes,MENARD
+4832700000,Texas,Menard County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,MENARD
+4832900000,Texas,Midland County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,MIDLAND
+4832900000,Texas,Midland County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,MIDLAND
+4832900000,Texas,Midland County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,MIDLAND
+4832900000,Texas,Midland County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,MIDLAND
+4833100000,Texas,Milam County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,MILAM
+4833100000,Texas,Milam County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,MILAM
+4833100000,Texas,Milam County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,MILAM
+4833300000,Texas,Mills County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,MILLS
+4833300000,Texas,Mills County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,MILLS
+4833300000,Texas,Mills County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,MILLS
+4833500000,Texas,Mitchell County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,MITCHELL
+4833500000,Texas,Mitchell County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,MITCHELL
+4833500000,Texas,Mitchell County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,MITCHELL
+4833700000,Texas,Montague County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,MONTAGUE
+4833700000,Texas,Montague County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,MONTAGUE
+4833700000,Texas,Montague County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,MONTAGUE
+4833900000,Texas,Montgomery County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,MONTGOMERY
+4833900000,Texas,Montgomery County,Electronic Poll Book,Montgomery County,Montgomery County Elections eVote,N/A,Yes,No,Yes,No,MONTGOMERY
+4833900000,Texas,Montgomery County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,MONTGOMERY
+4833900000,Texas,Montgomery County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,MONTGOMERY
+4834100000,Texas,Moore County,DRE-Touchscreen,Election Systems & Software,ExpressTouch,No,Yes,Yes,Yes,No,MOORE
+4834100000,Texas,Moore County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,MOORE
+4834100000,Texas,Moore County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,MOORE
+4834100000,Texas,Moore County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,MOORE
+4834300000,Texas,Morris County,DRE-Touchscreen,Election Systems & Software,iVotronic,No,Yes,Yes,Yes,No,MORRIS
+4834300000,Texas,Morris County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,MORRIS
+4834300000,Texas,Morris County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,MORRIS
+4834500000,Texas,Motley County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,MOTLEY
+4834500000,Texas,Motley County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,MOTLEY
+4834500000,Texas,Motley County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,MOTLEY
+4834700000,Texas,Nacogdoches County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,NACOGDOCHES
+4834700000,Texas,Nacogdoches County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,Yes,No,Yes,Yes,NACOGDOCHES
+4834700000,Texas,Nacogdoches County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,NACOGDOCHES
+4834900000,Texas,Navarro County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,NAVARRO
+4834900000,Texas,Navarro County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,NAVARRO
+4834900000,Texas,Navarro County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,NAVARRO
+4835100000,Texas,Newton County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,Yes,No,Yes,Yes,NEWTON
+4835100000,Texas,Newton County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,NEWTON
+4835100000,Texas,Newton County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,NEWTON
+4835300000,Texas,Nolan County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,NOLAN
+4835300000,Texas,Nolan County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,NOLAN
+4835300000,Texas,Nolan County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,NOLAN
+4835500000,Texas,Nueces County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,NUECES
+4835500000,Texas,Nueces County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,NUECES
+4835500000,Texas,Nueces County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,NUECES
+4835700000,Texas,Ochiltree County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,OCHILTREE
+4835700000,Texas,Ochiltree County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,OCHILTREE
+4835700000,Texas,Ochiltree County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,OCHILTREE
+4835900000,Texas,Oldham County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,OLDHAM
+4835900000,Texas,Oldham County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,OLDHAM
+4835900000,Texas,Oldham County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,OLDHAM
+4836100000,Texas,Orange County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,Yes,No,Yes,Yes,ORANGE
+4836100000,Texas,Orange County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ORANGE
+4836100000,Texas,Orange County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,ORANGE
+4836300000,Texas,Palo Pinto County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,PALO PINTO
+4836300000,Texas,Palo Pinto County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,PALO PINTO
+4836300000,Texas,Palo Pinto County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,PALO PINTO
+4836500000,Texas,Panola County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,PANOLA
+4836500000,Texas,Panola County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,PANOLA
+4836500000,Texas,Panola County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,PANOLA
+4836700000,Texas,Parker County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,PARKER
+4836700000,Texas,Parker County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,PARKER
+4836700000,Texas,Parker County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,PARKER
+4836900000,Texas,Parmer County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,PARMER
+4836900000,Texas,Parmer County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,PARMER
+4836900000,Texas,Parmer County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,PARMER
+4837100000,Texas,Pecos County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,PECOS
+4837100000,Texas,Pecos County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,PECOS
+4837100000,Texas,Pecos County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,PECOS
+4837300000,Texas,Polk County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,POLK
+4837300000,Texas,Polk County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,POLK
+4837300000,Texas,Polk County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,POLK
+4837300000,Texas,Polk County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,POLK
+4837500000,Texas,Potter County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,POTTER
+4837500000,Texas,Potter County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,POTTER
+4837500000,Texas,Potter County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,POTTER
+4837700000,Texas,Presidio County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,PRESIDIO
+4837700000,Texas,Presidio County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,PRESIDIO
+4837700000,Texas,Presidio County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,PRESIDIO
+4837900000,Texas,Rains County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,RAINS
+4837900000,Texas,Rains County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,RAINS
+4837900000,Texas,Rains County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,RAINS
+4838100000,Texas,Randall County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,RANDALL
+4838100000,Texas,Randall County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,RANDALL
+4838100000,Texas,Randall County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,RANDALL
+4838300000,Texas,Reagan County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,REAGAN
+4838300000,Texas,Reagan County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,REAGAN
+4838300000,Texas,Reagan County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,REAGAN
+4838500000,Texas,Real County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,REAL
+4838500000,Texas,Real County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,REAL
+4838500000,Texas,Real County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,REAL
+4838700000,Texas,Red River County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,RED RIVER
+4838700000,Texas,Red River County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,RED RIVER
+4838700000,Texas,Red River County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,RED RIVER
+4838900000,Texas,Reeves County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,Yes,No,Yes,Yes,REEVES
+4838900000,Texas,Reeves County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,REEVES
+4838900000,Texas,Reeves County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,REEVES
+4839100000,Texas,Refugio County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,REFUGIO
+4839100000,Texas,Refugio County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,REFUGIO
+4839100000,Texas,Refugio County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,REFUGIO
+4839300000,Texas,Roberts County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,ROBERTS
+4839300000,Texas,Roberts County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,ROBERTS
+4839300000,Texas,Roberts County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,ROBERTS
+4839500000,Texas,Robertson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,ROBERTSON
+4839500000,Texas,Robertson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ROBERTSON
+4839500000,Texas,Robertson County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,ROBERTSON
+4839700000,Texas,Rockwall County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,ROCKWALL
+4839700000,Texas,Rockwall County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ROCKWALL
+4839700000,Texas,Rockwall County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,ROCKWALL
+4839700000,Texas,Rockwall County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,ROCKWALL
+4839900000,Texas,Runnels County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,RUNNELS
+4839900000,Texas,Runnels County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,RUNNELS
+4839900000,Texas,Runnels County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,RUNNELS
+4840100000,Texas,Rusk County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,RUSK
+4840100000,Texas,Rusk County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,RUSK
+4840100000,Texas,Rusk County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,RUSK
+4840100000,Texas,Rusk County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,RUSK
+4840300000,Texas,Sabine County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,SABINE
+4840300000,Texas,Sabine County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,SABINE
+4840300000,Texas,Sabine County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SABINE
+4840500000,Texas,San Augustine County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,SAN AUGUSTINE
+4840500000,Texas,San Augustine County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,SAN AUGUSTINE
+4840500000,Texas,San Augustine County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SAN AUGUSTINE
+4840700000,Texas,San Jacinto County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,SAN JACINTO
+4840700000,Texas,San Jacinto County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,SAN JACINTO
+4840700000,Texas,San Jacinto County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,SAN JACINTO
+4840900000,Texas,San Patricio County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,SAN PATRICIO
+4840900000,Texas,San Patricio County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,SAN PATRICIO
+4840900000,Texas,San Patricio County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SAN PATRICIO
+4841100000,Texas,San Saba County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,Yes,No,Yes,Yes,SAN SABA
+4841100000,Texas,San Saba County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,SAN SABA
+4841100000,Texas,San Saba County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SAN SABA
+4841300000,Texas,Schleicher County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,SCHLEICHER
+4841300000,Texas,Schleicher County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,SCHLEICHER
+4841300000,Texas,Schleicher County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,SCHLEICHER
+4841500000,Texas,Scurry County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,SCURRY
+4841500000,Texas,Scurry County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,SCURRY
+4841500000,Texas,Scurry County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SCURRY
+4841700000,Texas,Shackelford County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,SHACKELFORD
+4841700000,Texas,Shackelford County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,No,No,No,Yes,SHACKELFORD
+4841700000,Texas,Shackelford County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SHACKELFORD
+4841900000,Texas,Shelby County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,SHELBY
+4841900000,Texas,Shelby County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,SHELBY
+4841900000,Texas,Shelby County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SHELBY
+4842100000,Texas,Sherman County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,SHERMAN
+4842100000,Texas,Sherman County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,SHERMAN
+4842100000,Texas,Sherman County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,SHERMAN
+4842300000,Texas,Smith County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,SMITH
+4842300000,Texas,Smith County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,SMITH
+4842300000,Texas,Smith County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,SMITH
+4842300000,Texas,Smith County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,SMITH
+4842500000,Texas,Somervell County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,SOMERVELL
+4842500000,Texas,Somervell County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,SOMERVELL
+4842500000,Texas,Somervell County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SOMERVELL
+4842700000,Texas,Starr County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,STARR
+4842700000,Texas,Starr County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,STARR
+4842700000,Texas,Starr County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,STARR
+4842900000,Texas,Stephens County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,STEPHENS
+4842900000,Texas,Stephens County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,STEPHENS
+4842900000,Texas,Stephens County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,STEPHENS
+4843100000,Texas,Sterling County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,STERLING
+4843100000,Texas,Sterling County,Hand Counted Paper Ballots,Not Applicable,Not Applicable,N/A,No,No,No,Yes,STERLING
+4843100000,Texas,Sterling County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,STERLING
+4843300000,Texas,Stonewall County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,STONEWALL
+4843300000,Texas,Stonewall County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,STONEWALL
+4843300000,Texas,Stonewall County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,STONEWALL
+4843500000,Texas,Sutton County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,SUTTON
+4843500000,Texas,Sutton County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,SUTTON
+4843500000,Texas,Sutton County,Electronic Poll Book,Data Unavailable,Data Unavailable,N/A,Yes,No,Yes,No,SUTTON
+4843700000,Texas,Swisher County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,SWISHER
+4843700000,Texas,Swisher County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,SWISHER
+4843700000,Texas,Swisher County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,SWISHER
+4843900000,Texas,Tarrant County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,TARRANT
+4843900000,Texas,Tarrant County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,TARRANT
+4843900000,Texas,Tarrant County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,TARRANT
+4843900000,Texas,Tarrant County,Electronic Poll Book,Tenex,Precinct Central,N/A,Yes,No,Yes,No,TARRANT
+4844100000,Texas,Taylor County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,TAYLOR
+4844100000,Texas,Taylor County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,TAYLOR
+4844100000,Texas,Taylor County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,TAYLOR
+4844300000,Texas,Terrell County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,Yes,TERRELL
+4844300000,Texas,Terrell County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,TERRELL
+4844300000,Texas,Terrell County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,TERRELL
+4844500000,Texas,Terry County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,TERRY
+4844500000,Texas,Terry County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,TERRY
+4844500000,Texas,Terry County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,TERRY
+4844700000,Texas,Throckmorton County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,THROCKMORTON
+4844700000,Texas,Throckmorton County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,THROCKMORTON
+4844700000,Texas,Throckmorton County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,THROCKMORTON
+4844900000,Texas,Titus County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,TITUS
+4844900000,Texas,Titus County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,TITUS
+4844900000,Texas,Titus County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,TITUS
+4845100000,Texas,Tom Green County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,TOM GREEN
+4845100000,Texas,Tom Green County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,TOM GREEN
+4845100000,Texas,Tom Green County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,TOM GREEN
+4845300000,Texas,Travis County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,TRAVIS
+4845300000,Texas,Travis County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,TRAVIS
+4845300000,Texas,Travis County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,TRAVIS
+4845300000,Texas,Travis County,Electronic Poll Book,Tenex,Precinct Central,N/A,Yes,No,Yes,No,TRAVIS
+4845300000,Texas,Travis County,Remote Ballot Marking System: Server-Side,Democracy Live,OmniBallot Online,N/A,No,No,No,No,TRAVIS
+4845500000,Texas,Trinity County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,Yes,No,Yes,Yes,TRINITY
+4845500000,Texas,Trinity County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,TRINITY
+4845500000,Texas,Trinity County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,TRINITY
+4845700000,Texas,Tyler County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,TYLER
+4845700000,Texas,Tyler County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,TYLER
+4845700000,Texas,Tyler County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,TYLER
+4845900000,Texas,Upshur County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,UPSHUR
+4845900000,Texas,Upshur County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,UPSHUR
+4845900000,Texas,Upshur County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,UPSHUR
+4846100000,Texas,Upton County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,UPTON
+4846100000,Texas,Upton County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,UPTON
+4846100000,Texas,Upton County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,UPTON
+4846300000,Texas,Uvalde County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,UVALDE
+4846300000,Texas,Uvalde County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,UVALDE
+4846300000,Texas,Uvalde County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,UVALDE
+4846500000,Texas,Val Verde County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,VAL VERDE
+4846500000,Texas,Val Verde County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,VAL VERDE
+4846500000,Texas,Val Verde County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,VAL VERDE
+4846500000,Texas,Val Verde County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,VAL VERDE
+4846500000,Texas,Val Verde County,Remote Ballot Marking System: Server-Side,Democracy Live,OmniBallot Online,N/A,No,No,No,No,VAL VERDE
+4846700000,Texas,Van Zandt County,Hand-Fed Optical Scanner,Election Systems & Software,Model 100,N/A,Yes,No,Yes,No,VAN ZANDT
+4846700000,Texas,Van Zandt County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,VAN ZANDT
+4846700000,Texas,Van Zandt County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,VAN ZANDT
+4846700000,Texas,Van Zandt County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,No,No,No,Yes,VAN ZANDT
+4846900000,Texas,Victoria County,DRE-Touchscreen,Election Systems & Software,iVotronic,No,Yes,Yes,Yes,No,VICTORIA
+4846900000,Texas,Victoria County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,No,No,No,Yes,VICTORIA
+4846900000,Texas,Victoria County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,VICTORIA
+4847100000,Texas,Walker County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,WALKER
+4847100000,Texas,Walker County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,WALKER
+4847100000,Texas,Walker County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,WALKER
+4847100000,Texas,Walker County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,WALKER
+4847300000,Texas,Waller County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,WALLER
+4847300000,Texas,Waller County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,WALLER
+4847300000,Texas,Waller County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,WALLER
+4847500000,Texas,Ward County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,Yes,No,Yes,Yes,WARD
+4847500000,Texas,Ward County,Ballot Marking Device,Hart InterCivic,Verity Touch Writer,N/A,Yes,Yes,Yes,No,WARD
+4847500000,Texas,Ward County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,WARD
+4847700000,Texas,Washington County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,No,Yes,WASHINGTON
+4847700000,Texas,Washington County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,No,No,Yes,No,WASHINGTON
+4847700000,Texas,Washington County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,WASHINGTON
+4847700000,Texas,Washington County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,WASHINGTON
+4847900000,Texas,Webb County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,WEBB
+4847900000,Texas,Webb County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,WEBB
+4847900000,Texas,Webb County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,No,No,No,Yes,WEBB
+4847900000,Texas,Webb County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,WEBB
+4848100000,Texas,Wharton County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,WHARTON
+4848100000,Texas,Wharton County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,Yes,WHARTON
+4848100000,Texas,Wharton County,Electronic Poll Book,Votec,VoteSafe,N/A,Yes,No,Yes,No,WHARTON
+4848100000,Texas,Wharton County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,WHARTON
+4848300000,Texas,Wheeler County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,WHEELER
+4848300000,Texas,Wheeler County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,WHEELER
+4848300000,Texas,Wheeler County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,WHEELER
+4848500000,Texas,Wichita County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,WICHITA
+4848500000,Texas,Wichita County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,WICHITA
+4848500000,Texas,Wichita County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,WICHITA
+4848500000,Texas,Wichita County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,WICHITA
+4848700000,Texas,Wilbarger County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,WILBARGER
+4848700000,Texas,Wilbarger County,Batch-Fed Optical Scanner,Hart InterCivic,Ballot Now,N/A,No,No,No,Yes,WILBARGER
+4848700000,Texas,Wilbarger County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,WILBARGER
+4848900000,Texas,Willacy County,Hand-Fed Optical Scanner,Hart InterCivic,eScan,N/A,Yes,No,Yes,Yes,WILLACY
+4848900000,Texas,Willacy County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,WILLACY
+4848900000,Texas,Willacy County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,WILLACY
+4849100000,Texas,Williamson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,WILLIAMSON
+4849100000,Texas,Williamson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,WILLIAMSON
+4849100000,Texas,Williamson County,Batch-Fed Optical Scanner,Election Systems & Software,DS850,N/A,No,No,No,Yes,WILLIAMSON
+4849100000,Texas,Williamson County,Electronic Poll Book,Tenex,Precinct Central,N/A,Yes,No,Yes,No,WILLIAMSON
+4849300000,Texas,Wilson County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,No,WILSON
+4849300000,Texas,Wilson County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,WILSON
+4849300000,Texas,Wilson County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,WILSON
+4849300000,Texas,Wilson County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,No,No,No,Yes,WILSON
+4849500000,Texas,Winkler County,Batch-Fed Optical Scanner,Election Systems & Software,Model 650,N/A,Yes,No,Yes,Yes,WINKLER
+4849500000,Texas,Winkler County,Ballot Marking Device,Election Systems & Software,AutoMARK,N/A,Yes,Yes,Yes,No,WINKLER
+4849500000,Texas,Winkler County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,WINKLER
+4849700000,Texas,Wise County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,WISE
+4849700000,Texas,Wise County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,WISE
+4849700000,Texas,Wise County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,WISE
+4849900000,Texas,Wood County,DRE-Dial,Hart InterCivic,eSlate,No,Yes,Yes,Yes,No,WOOD
+4849900000,Texas,Wood County,Hand-Fed Optical Scanner,Hart InterCivic,eScan,N/A,No,No,No,Yes,WOOD
+4849900000,Texas,Wood County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,WOOD
+4850100000,Texas,Yoakum County,Hand-Fed Optical Scanner,Election Systems & Software,DS200,N/A,Yes,No,Yes,Yes,YOAKUM
+4850100000,Texas,Yoakum County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,YOAKUM
+4850100000,Texas,Yoakum County,Electronic Poll Book,Election Systems & Software,ExpressPoll,N/A,Yes,No,Yes,No,YOAKUM
+4850300000,Texas,Young County,Ballot Marking Device,Hart InterCivic,Verity Duo,N/A,Yes,Yes,Yes,No,YOUNG
+4850300000,Texas,Young County,Batch-Fed Optical Scanner,Hart InterCivic,Verity Central,N/A,No,No,No,Yes,YOUNG
+4850300000,Texas,Young County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,YOUNG
+4850300000,Texas,Young County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,No,YOUNG
+4850500000,Texas,Zapata County,Hand-Fed Optical Scanner,Hart InterCivic,Verity Scan,N/A,Yes,No,Yes,Yes,ZAPATA
+4850500000,Texas,Zapata County,DRE-Touchscreen,Hart InterCivic,Verity Touch,No,Yes,Yes,Yes,No,ZAPATA
+4850500000,Texas,Zapata County,Paper Poll Book,Not Applicable,Not Applicable,N/A,Yes,No,Yes,No,ZAPATA
+4850700000,Texas,Zavala County,Batch-Fed Optical Scanner,Election Systems & Software,DS450,N/A,Yes,No,Yes,Yes,ZAVALA
+4850700000,Texas,Zavala County,Ballot Marking Device,Election Systems & Software,ExpressVote,N/A,Yes,Yes,Yes,No,ZAVALA
+4850700000,Texas,Zavala County,Electronic Poll Book,KNOWiNK,Poll Pad,N/A,Yes,No,Yes,No,ZAVALA
